@@ -2,8 +2,8 @@
 
 Game projects I did as a student:
 
-SaveAndLoad、Sokoban、Pacman、
+6_SaveAndLoad、5_Sokoban、4_Pacman、
 
-JigsawPuzzle、MemoryPairsGame、
+3_JigsawPuzzle、2_MemoryPairsGame、
 
-WhacAMoleGames、FunFourOperations;
+1_WhacAMoleGames、0_FunFourOperations;
